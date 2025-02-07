@@ -28,3 +28,4 @@ Explanation: There is single element in the array. Therefore output is empty.
         return res;
     }
 }
+Accuracy 100%
